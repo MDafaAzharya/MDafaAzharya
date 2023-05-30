@@ -1,8 +1,6 @@
-<!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
-
-<h1 align="center"> 👋 </h1>
+<div align="center">
+    <img src="https://github.com/MDafaAzharya/MDafaAzharya/assets/125567760/d030e3da-964a-4685-ad12-3b3b9ba6559c" width="50%" height="50%" alt="">
+</div>
 
 <h2 align="center"> 👨‍💻 Muhammad Dafa Azharya</h2>
 <p align="center">
@@ -13,25 +11,25 @@ Hello I'm Dafa, I was born in Bandung on March 6, 2006. I live in Banjaran. This
   <img src="https://komarev.com/ghpvc/?username=MDafaAzharya" alt="https://github.com/MDafaAzharya" />
 </p>
 
-<hr>
-
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> :gear:	 Favorite Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/php%20-%2343853D.svg?&style=for-the-badge&logo=php&logoColor=purple" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/laravel%20-%2300D9FF.svg?&style=for-the-badge&logo=laravel&logoColor=red" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/bootstrap-css%20-%231572B6.svg?&style=for-the-badge&logo=bootstrap-css&logoColor=purple" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">HTML5, PHP, Javascript, BOOTSTRAP, LARAVEL</p>
+<p align="center">
+  <samp> HTML5, PHP, Javascript, BOOTSTRAP, LARAVEL
+      </samp>
+</p>
 
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
+<h2  align="center">:globe_with_meridians: Find Me in Social Media</h2>
 <p align="center">
   <a target="_blank"href="https://www.instagram.com/dfazhrya_/?next=%2F&hl=id"><img src="https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"https://github.com/MDafaAzharya"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/u/0/?pli=1#inbox"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+<h2  align="center">	:briefcase: Check Out My Repos ⬇️ </h2>
+<p align="center">
+    <a href="https://github.com/MDafaAzharya?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-777BB4?style=for-the-badge&logo=github&logoColor=blue" alt="" ></a>
+</p>
