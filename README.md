@@ -16,11 +16,11 @@
 <h2 align="center"> :gear:	 Favorite Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">
-  <samp> HTML5, PHP, Javascript, BOOTSTRAP, LARAVEL
+  <samp> HTMLM, CSS, Javascript, PHP, Bootstrap, Tailwind, Laravel, React JS
       </samp>
 </p>
 
