@@ -5,7 +5,9 @@
 <h2 align="center"> 👨‍💻 Muhammad Dafa Azharya</h2>
 <p align="center">
   <samp>
-Hello I'm Dafa, I was born in Bandung on March 6, 2006. I live in Banjaran. This github is mine, please see my project. Enjoy Guys!!!. I majored in software engineering or programming in high school class, I hope my skills develop and can become a great programmer
+🎓 I started my journey in software engineering back in high school, where I majored in programming. Born and raised in Bandung, currently living in Banjaran, I’ve always been passionate about building solutions through code.
+<br><br>
+💼 Now working professionally in the tech industry, I'm continuously learning and developing my skills to become a better programmer every day.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=MDafaAzharya" alt="https://github.com/MDafaAzharya" />
