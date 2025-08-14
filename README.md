@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />&nbsp;&nbsp;
 </p>
 <p align="center">
-  <samp> HTMLM, CSS, Javascript, PHP, Bootstrap, Tailwind, Laravel, React JS
+  <samp> HTML, CSS, Javascript, PHP, Bootstrap, Tailwind, Laravel, React JS, Python
       </samp>
 </p>
 
